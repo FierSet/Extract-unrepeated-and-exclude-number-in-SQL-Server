@@ -1,0 +1,1 @@
+# Extract-unrepeated-and-exclude-number-in-SQL-Server
